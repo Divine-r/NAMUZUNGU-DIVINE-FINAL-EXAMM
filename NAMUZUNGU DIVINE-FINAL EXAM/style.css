@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+    
+}
+text{
+    color: rgb(255, 255, 255);
+}
+
+
+h1{
+    color: red;
+}
+h2{
+    color: yellow;
+}
+
+
+h2{
+    
+        color: red;
+}
+
+ul li a{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+ul li a:hover{
+    color: red;
+}
